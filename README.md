@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm a final year student at NIT Jamshedpur, passionate about Data Science, Machine Learning, and Android Development.<br>🔭 I’m currently working on Data Science and Android projects<br><br>🌱 I’m currently learning Machine learning</p>
+<p align="left">I'm a final year student at NIT Jamshedpur, passionate about Data Science, Machine Learning, and Android Development.<br><br>🔭 I’m currently working on Data Science and Android projects<br><br>🌱 I’m currently learning Machine learning</p>
 
 <br><br>
 ### 🌐 Socials:
