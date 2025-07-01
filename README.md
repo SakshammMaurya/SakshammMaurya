@@ -21,7 +21,9 @@
 
 <h1 align="center">Hi 👋, I'm Saksham Maurya</h1>
 
+
 ###
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -29,8 +31,11 @@
 
 <p align="left">I'm a final year student at NIT Jamshedpur, passionate about Data Science, Machine Learning, and Android Development.<br>🔭 I’m currently working on Data Science and Android projects<br><br>🌱 I’m currently learning Machine learning</p>
 
+<br><br>
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_saksham._m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saksham-maurya-099078254/) 
+
+<br><br>
 
 ###
 
@@ -74,18 +79,21 @@
   <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
 </div>
 
+<br><br>
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshammMaurya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SakshammMaurya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SakshammMaurya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SakshammMaurya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=SakshammMaurya&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+<br><br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SakshammMaurya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
