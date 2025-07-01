@@ -26,7 +26,7 @@
 
 <br><br>
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_saksham._m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saksham-maurya-099078254/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_saksham._m) [![LinkedIn](https://www.linkedin.com/in/saksham-maurya-099078254/) 
 
 <br><br>
 
